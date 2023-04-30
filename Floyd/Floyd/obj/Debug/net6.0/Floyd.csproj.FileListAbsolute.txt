@@ -1,0 +1,48 @@
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\bin\Debug\net6.0\Floyd.deps.json
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\bin\Debug\net6.0\Floyd.dll
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\bin\Debug\net6.0\Floyd.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\obj\Debug\net6.0\Floyd.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\obj\Debug\net6.0\Floyd.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\obj\Debug\net6.0\Floyd.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\obj\Debug\net6.0\Floyd.dll
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\obj\Debug\net6.0\refint\Floyd.dll
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\obj\Debug\net6.0\Floyd.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\res\Floyd\obj\Debug\net6.0\ref\Floyd.dll
+C:\Users\Анна\Desktop\res\Floyd\bin\Debug\net6.0\Floyd.deps.json
+C:\Users\Анна\Desktop\res\Floyd\bin\Debug\net6.0\Floyd.dll
+C:\Users\Анна\Desktop\res\Floyd\bin\Debug\net6.0\Floyd.pdb
+C:\Users\Анна\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfo.cs
+C:\Users\Анна\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.dll
+C:\Users\Анна\Desktop\res\Floyd\obj\Debug\net6.0\refint\Floyd.dll
+C:\Users\Анна\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.pdb
+C:\Users\Анна\Desktop\res\Floyd\obj\Debug\net6.0\ref\Floyd.dll
+C:\Users\UserName\Desktop\res\Floyd\bin\Debug\net6.0\Floyd.deps.json
+C:\Users\UserName\Desktop\res\Floyd\bin\Debug\net6.0\Floyd.dll
+C:\Users\UserName\Desktop\res\Floyd\bin\Debug\net6.0\Floyd.pdb
+C:\Users\UserName\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfo.cs
+C:\Users\UserName\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.dll
+C:\Users\UserName\Desktop\res\Floyd\obj\Debug\net6.0\refint\Floyd.dll
+C:\Users\UserName\Desktop\res\Floyd\obj\Debug\net6.0\Floyd.pdb
+C:\Users\UserName\Desktop\res\Floyd\obj\Debug\net6.0\ref\Floyd.dll
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\bin\Debug\net6.0\Floyd.deps.json
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\bin\Debug\net6.0\Floyd.dll
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\bin\Debug\net6.0\Floyd.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\obj\Debug\net6.0\Floyd.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\obj\Debug\net6.0\Floyd.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\obj\Debug\net6.0\Floyd.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\obj\Debug\net6.0\Floyd.dll
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\obj\Debug\net6.0\refint\Floyd.dll
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\obj\Debug\net6.0\Floyd.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\Floyd\obj\Debug\net6.0\ref\Floyd.dll

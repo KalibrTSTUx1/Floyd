@@ -1,0 +1,97 @@
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\bin\Debug\net6.0-windows\Project.exe
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\bin\Debug\net6.0-windows\Project.deps.json
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\bin\Debug\net6.0-windows\Project.runtimeconfig.json
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\bin\Debug\net6.0-windows\Project.dll
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\bin\Debug\net6.0-windows\Project.pdb
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.csproj.AssemblyReference.cache
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.Form1.resources
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.csproj.GenerateResource.cache
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.AssemblyInfoInputs.cache
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.AssemblyInfo.cs
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.csproj.CoreCompileInputs.cache
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.dll
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\refint\Project.dll
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.pdb
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\Project.genruntimeconfig.cache
+D:\tstu\SEng\Разработка консольных приложений\c# проекты\Project\obj\Debug\net6.0-windows\ref\Project.dll
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\bin\Debug\net6.0-windows\Project.exe
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\bin\Debug\net6.0-windows\Project.deps.json
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\bin\Debug\net6.0-windows\Project.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\bin\Debug\net6.0-windows\Project.dll
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\bin\Debug\net6.0-windows\Project.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\bin\Debug\net6.0-windows\Floyd.dll
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\bin\Debug\net6.0-windows\Floyd.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.Form1.resources
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.dll
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\refint\Project.dll
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\Project.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\Контрольная\res\Project\obj\Debug\net6.0-windows\ref\Project.dll
+C:\Users\Анна\Desktop\res\Project\bin\Debug\net6.0-windows\Project.exe
+C:\Users\Анна\Desktop\res\Project\bin\Debug\net6.0-windows\Project.deps.json
+C:\Users\Анна\Desktop\res\Project\bin\Debug\net6.0-windows\Project.runtimeconfig.json
+C:\Users\Анна\Desktop\res\Project\bin\Debug\net6.0-windows\Project.dll
+C:\Users\Анна\Desktop\res\Project\bin\Debug\net6.0-windows\Project.pdb
+C:\Users\Анна\Desktop\res\Project\bin\Debug\net6.0-windows\Floyd.dll
+C:\Users\Анна\Desktop\res\Project\bin\Debug\net6.0-windows\Floyd.pdb
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.Form1.resources
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.AssemblyInfo.cs
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.csproj.CopyComplete
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.dll
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\refint\Project.dll
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.pdb
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\Project.genruntimeconfig.cache
+C:\Users\Анна\Desktop\res\Project\obj\Debug\net6.0-windows\ref\Project.dll
+C:\Users\UserName\Desktop\res\Project\bin\Debug\net6.0-windows\Project.exe
+C:\Users\UserName\Desktop\res\Project\bin\Debug\net6.0-windows\Project.deps.json
+C:\Users\UserName\Desktop\res\Project\bin\Debug\net6.0-windows\Project.runtimeconfig.json
+C:\Users\UserName\Desktop\res\Project\bin\Debug\net6.0-windows\Project.dll
+C:\Users\UserName\Desktop\res\Project\bin\Debug\net6.0-windows\Project.pdb
+C:\Users\UserName\Desktop\res\Project\bin\Debug\net6.0-windows\Floyd.dll
+C:\Users\UserName\Desktop\res\Project\bin\Debug\net6.0-windows\Floyd.pdb
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.Form1.resources
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.AssemblyInfo.cs
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.csproj.CopyComplete
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.dll
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\refint\Project.dll
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.pdb
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\Project.genruntimeconfig.cache
+C:\Users\UserName\Desktop\res\Project\obj\Debug\net6.0-windows\ref\Project.dll
+E:\первый курс\second semak\основы программирования\Контрольная\Project\bin\Debug\net6.0-windows\Project.exe
+E:\первый курс\second semak\основы программирования\Контрольная\Project\bin\Debug\net6.0-windows\Project.deps.json
+E:\первый курс\second semak\основы программирования\Контрольная\Project\bin\Debug\net6.0-windows\Project.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\Контрольная\Project\bin\Debug\net6.0-windows\Project.dll
+E:\первый курс\second semak\основы программирования\Контрольная\Project\bin\Debug\net6.0-windows\Project.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\Project\bin\Debug\net6.0-windows\Floyd.dll
+E:\первый курс\second semak\основы программирования\Контрольная\Project\bin\Debug\net6.0-windows\Floyd.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.Form1.resources
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.dll
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\refint\Project.dll
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.pdb
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\Project.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\Контрольная\Project\obj\Debug\net6.0-windows\ref\Project.dll
